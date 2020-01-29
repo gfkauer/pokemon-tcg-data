@@ -8736,6 +8736,23 @@
     "text": [
       "During this turn, your Lightning Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
     ],
+    "versions": [
+      {
+        "type": "reverse"
+      },
+      {
+        "type": "League Cup Promo",
+        "imageUrl": "https://images.pokemontcg.io/sm8/172c.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/sm8/172c_hires.png"
+      },
+      {
+        "type": "League Challange Promo",
+        "number": "172a",
+        "artist": "Ayoka Yoshida",
+        "imageUrl": "https://images.pokemontcg.io/sm8/172a.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/sm8/172a_hires.png"
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm8/172_hires.png"
   },
   {

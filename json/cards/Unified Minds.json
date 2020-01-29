@@ -9589,6 +9589,18 @@
     "text": [
       "Search your deck for a Pokémon-GX, reveal it, and put it into your hand. Then, shuffle your deck."
     ],
+    "versions": [
+      {
+        "type": "reverse"
+      },
+      {
+        "type": "League Cup Promo",
+        "number": "191a",
+        "artist": "Yoshinobu Saito",
+        "imageUrl": "https://images.pokemontcg.io/sm11/191a.png",
+        "imageUrlHiRes": "https://images.pokemontcg.io/sm11/191a_hires.png"
+      }
+    ],
     "imageUrlHiRes": "https://images.pokemontcg.io/sm11/191_hires.png"
   },
   {
